@@ -1,4 +1,6 @@
 {
 	// quality is 0 to 100
 	"quality":75,
+	// type is default or smooth
+	"type":"smooth",
 }
